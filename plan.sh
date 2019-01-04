@@ -1,6 +1,8 @@
 pkg_name=builder-datastore
 pkg_origin=devoptimist
 pkg_version="9.6.9"
+pkg_svc_user=test
+pkg_svc_group=test
 pkg_maintainer="Steve Brown <sbrown@chef.io"
 pkg_license=("Apache-2.0")
 pkg_deps=(habitat/builder-datastore)

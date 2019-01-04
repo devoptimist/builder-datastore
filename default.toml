@@ -214,3 +214,6 @@ restart_after_crash = "on"
 
 [init]
 encoding = "UTF8"
+
+[superuser]
+name = "test"
